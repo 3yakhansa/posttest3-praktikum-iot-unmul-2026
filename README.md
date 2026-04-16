@@ -63,7 +63,7 @@ Proyek ini merupakan sistem pemantauan dan pengendalian pintu air bendungan pint
 | `posttest3/iot/pintu`      | Publish posisi servo          | 0 / 90 / 180          |
 
 ### Rincian Gambar
-![Board_Schematics](boardSchematic3.jpeg)
+![Board_Schematics](boardSchematic3.jpg)
 
 ## 🖥️ Video Demonstrasi
 https://youtu.be/UhO3ILt_tQg?si=crf1-yGALMULOIcq
