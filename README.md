@@ -15,7 +15,7 @@ Proyek ini merupakan sistem pemantauan dan pengendalian pintu air bendungan pint
 - **d) Emergency alarm:** Buzzer berkedip otomatis saat kondisi bahaya atau mode manual aktif
 - **e) MQTT communication:** Komunikasi data menggunakan protokol MQTT untuk respons yang cepat dan efisien
 
-## 🧑‍ Pembagian Tugas
+## ❕Pembagian Tugas
 1. [2309106023 - Muhammad Guntur Adyatma] → Perancangan rangkaian (hardware) & wiring
 2. [2409106029 - Ridho Setiawan] → Pemrograman ESP32 pada Arduino IDE & konfigurasi Kodular
 3. [2409106038 - Triya Khairun Nisa] → Merapikan Tampilan Kodular & dokumentasi
@@ -66,7 +66,7 @@ Proyek ini merupakan sistem pemantauan dan pengendalian pintu air bendungan pint
 ![Board_Schematics](boardSchematicPT3.jpeg)
 
 ## 🖥️ Video Demonstrasi
-
+https://youtu.be/UhO3ILt_tQg?si=crf1-yGALMULOIcq
 
 ---
 
@@ -85,4 +85,3 @@ Proyek ini merupakan sistem pemantauan dan pengendalian pintu air bendungan pint
 
 ---
 
-**Catatan:** Pastikan ESP32 terhubung ke WiFi dengan SSID "pocky" dan password "ayamgeprek" atau sesuaikan dengan konfigurasi WiFi Anda di dalam kode.
